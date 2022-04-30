@@ -1,0 +1,12 @@
+{
+    "utenti": [
+        {
+            "nome": "Mario",
+            "cognome": "Rossi"
+        },
+        {
+            "nome": "Mirco",
+            "cognome": "Bianchi"
+        }
+    ]
+}
