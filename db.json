@@ -1,0 +1,125 @@
+{
+    "lavori": [
+        {
+            "id": 1,
+            "nomeLavoro": "CRM Aziendale",
+            "tecnologia":"Angular",
+            "srcImgCard": "assets/crm-aziendale.png",
+            "altImgCard": "crm-aziendale",
+            "textCard": "Progetto finale del corso di Front-End Development di Epicode. Si tratta di un software gestionale pensato per la gestione di clienti e delle relative fatture. Realizzato con Angular, Bootstrap e Material. Una volta effettuatal'autenticazione avrai pieno controllo dei dati presenti nell'API.",
+            "linkYouTube":"https://www.youtube.com/watch?v=caNi3Jy1kos",
+            "linkGithub":"https://github.com/mauromassari/FE_0122A_progetto_finale",
+            "YoutubeModale": "https://www.youtube.com/embed/caNi3Jy1kos"
+        },
+        {
+            "id": 3,
+            "nomeLavoro": "E-commerce",
+            "tecnologia":"Angular",
+            "srcImgCard": "assets/e-commerce.png",
+            "altImgCard": "e-commerce",
+            "textCard": "Questa Web App realizzata con Angular e Bootstrap è stata progettata pensando ad un e-commerce, mostrando le funzionalità di base che quest'ultimo deve avere. Infatti è possibile visualizzare i dettagli di ciascun prodotto e il rispettivo inserimento nel carrello.",
+            "linkYouTube":"https://youtu.be/Nqh_ZvEJiag",
+            "linkGithub":"https://github.com/mauromassari/FE0122A_progetto_settimana10",
+            "YoutubeModale": "https://www.youtube.com/embed/Nqh_ZvEJiag"
+        },
+        {
+            "id": 2,
+            "nomeLavoro": "Movies Web App",
+            "tecnologia":"Angular",
+            "srcImgCard": "assets/movies-web-app.png",
+            "altImgCard": "movies-web-app",
+            "textCard": "Questa Web App vuole simulare un servizio di streaming che offre una varietà di film e serie Tv. Difatti dopo aver effettuato l’autenticazione visualizzerai una lista di film che potrai aggiungere alla tua sezione preferiti e una pagina per vedere i dettagli dell’utente autenticato.",
+            "linkYouTube":"https://www.youtube.com/watch?v=rfY9vfy4djM",
+            "linkGithub":"https://github.com/mauromassari/FE0122A_progetto_settimana11",
+            "YoutubeModale": "https://www.youtube.com/embed/rfY9vfy4djM"
+        },
+        {
+            "id": 4,
+            "nomeLavoro": "To Do List (Angular)",
+            "tecnologia":"Angular",
+            "srcImgCard": "assets/toDoLitAngular.png",
+            "altImgCard": "toDoLitAngular",
+            "textCard": "Questa Web App realizzata con Angular e Bootstrap è stata progettata pensando ad una lista degli impegni, la classica to do list. Presenta principalmente due pagine: la prima dove è possibile inserire i task da completare e la seconda che presenta invece i task completati.",
+            "linkYouTube":"https://youtu.be/YBOlF4_Fo1o",
+            "linkGithub":"https://github.com/mauromassari/FE0122A_progetto_settimana9",
+            "YoutubeModale": "https://www.youtube.com/embed/YBOlF4_Fo1o"
+        },
+        {
+            "id": 5,
+            "nomeLavoro": "Social Media",
+            "tecnologia":"Angular",
+            "srcImgCard": "assets/socialMedia.png",
+            "altImgCard": "socialMedia",
+            "textCard": "Questa Web App realizzata con Angular e Bootstrap è stata progettata pensando ad un social media. Presenta soltanto una pagina sulla quale vengono mostrate a schermo delle card contenenti un'immagine segnaposto e due pulsanti. I dati delle card sono presenti in un'API.",
+            "linkYouTube":"https://youtu.be/hWwscONQW6o",
+            "linkGithub":"https://github.com/mauromassari/FE_0122A_s10_g3",
+            "YoutubeModale": "https://www.youtube.com/embed/hWwscONQW6o"
+        },
+        {
+            "id": 6,
+            "nomeLavoro": "Blog",
+            "tecnologia":"Angular",
+            "srcImgCard": "assets/blog.png",
+            "altImgCard": "blog-angular",
+            "textCard": "Questo è uno dei primi esercizi realizzati con Angular assieme al docente Dario Del Giudice. Il progetto è stato realizzato per mostrare come si può creare un blog con Angular e Bootstrap. Tutto quello che riguarda i blog post segna posto sono presenti in un service dedicato, similmente alla gestione degli utenti.",
+            "linkYouTube":"https://www.youtube.com/watch?v=k-FGU1OKge4",
+            "linkGithub":"https://github.com/mauromassari/FE_0122A_s10_g2",
+            "YoutubeModale": "https://www.youtube.com/embed/k-FGU1OKge4"
+        },
+        {
+            "id": 9,
+            "nomeLavoro": "Memory game",
+            "tecnologia":"jQuery",
+            "srcImgCard": "assets/memory-game.png",
+            "altImgCard": "memory-game",
+            "textCard": "Questo progetto è stato realizzato per mostrare come si può creare il noto gioco del memory attraverso l'utilizzo della libreria javascript jQuery. Il gioco finisce quando vengono trovate tutte le coppie. Sempre attraverso l'utilizzo di jQuery, e non solo, sono state implementate delle piccole animazioni.",
+            "linkYouTube":"https://www.youtube.com/watch?v=W0A5SNAYap4",
+            "linkGithub":"https://github.com/mauromassari/fe0122a-Mauro-Massari/tree/master/s6/progetto",
+            "YoutubeModale": "https://www.youtube.com/embed/W0A5SNAYap4"
+        },
+        {
+            "id": 7,
+            "nomeLavoro": "Media Player",
+            "tecnologia":"Javascript",
+            "srcImgCard": "assets/media-player.png",
+            "altImgCard": "media-player",
+            "textCard": "Lo scopo di questo esercizio è quello di realizzare un media player attraverso javascript, bootstrap e un file json. Quest'ultimo contiene le informazioni sui file audio e video che si possono riprodurre. La parte core dell'html viene generata dinamicamente dal codice javascript al caricamento della pagina.",
+            "linkYouTube":"https://www.youtube.com/watch?v=tOu15okxlvk",
+            "linkGithub":"https://github.com/mauromassari/FE_0122A_s9_g2",
+            "YoutubeModale": "https://www.youtube.com/embed/tOu15okxlvk"
+        },
+        {
+            "id": 8,
+            "nomeLavoro": "Gestionale utenti registrati",
+            "tecnologia":"Javascript",
+            "srcImgCard": "assets/gestionale-utenti-registrati.png",
+            "altImgCard": "gestionale-utenti-registrati",
+            "textCard": "L'obiettivo di questa esercizio è quello di realizzare un gestionale di utenti. Il gestionale è composto da tre pagine: la prima mostra i dati di tutti gli utenti presente nel database (API), la seconda contiene un form per la registrazione di un nuovo utente e la terza permette di modificarne uno già esistente.",
+            "linkYouTube":"https://www.youtube.com/watch?v=KXY5lGAoO4M",
+            "linkGithub":"https://github.com/mauromassari/fe0122a-Mauro-Massari/tree/master/s7/secondo-esercizio-di-ripasso/chiamata-ajax-a-JSON-con-fetch/esercitazione_10-03-22",
+            "YoutubeModale": "https://www.youtube.com/embed/KXY5lGAoO4M"
+        },
+        {
+            "id": 10,
+            "nomeLavoro": "To Do List (Javascript)",
+            "tecnologia":"Javascript",
+            "srcImgCard": "assets/toDoListJs.png",
+            "altImgCard": "to-do-list-js",
+            "textCard": "Attraverso la realizzazione di questo progetto è stata implementata una To Do List: una lista degli impegni sviluppata in Javascript. Questa permette di aggiungere e rimuovere elementi dalla lista. Inoltre i task vengono memorizzati in un databse presente nel local storage.",
+            "linkYouTube":"https://www.youtube.com/watch?v=WT-Do1DNI4s",
+            "linkGithub":"https://github.com/mauromassari/fe0122a-Mauro-Massari/tree/master/s5/progetto/starter",
+            "YoutubeModale": "https://www.youtube.com/embed/WT-Do1DNI4s"
+        },
+        {
+            "id": 11,
+            "nomeLavoro": "Calcolatrice",
+            "tecnologia":"Javascript",
+            "srcImgCard": "assets/calcolatrice.png",
+            "altImgCard": "calocolatrice",
+            "textCard": "In questo esercizio è stata realizzata una calcolatrice attraverso l'utilizzo di Javasript e CSS3. Si tratta ovviamente di una versione semplificata, priva di molte funzionalità. Sviluppata alla fine della quarta settimana del corso Front-end di Epicode.",
+            "linkYouTube":"https://www.youtube.com/watch?v=J8na7u7pAmE",
+            "linkGithub":"https://github.com/mauromassari/fe0122a-Mauro-Massari/tree/master/s4/progetto/progetto_17-02-22/root",
+            "YoutubeModale": "https://www.youtube.com/embed/J8na7u7pAmE"
+        }
+    ]
+}
