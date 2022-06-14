@@ -18,6 +18,17 @@
     ],
     "lavori": [ 
         {
+            "id": 28,
+            "nomeLavoro": "Mini Game realizzato con ThreeJS",
+            "categoria":"Three.js",
+            "srcImgCard": "assets/game-threejs.png",
+            "altImgCard": "front-end",
+            "textCard": "Continuando sul precedente progetto incentrato sulla libreria Three JS, ho aggiunto alcuni elementi per rendere questa pagina web sempre più simile ad una esperienza di gioco, interattiva e con una grafica che ricorda la cara PS1. Tuttavia siamo lontani anni luce da quello che è un vero video-game.",                                                                                
+            "linkYouTube":"https://www.linkedin.com/feed/update/urn:li:activity:6942407705206648832/",
+            "linkGithub":"https://github.com/mauromassari/mini-game-three-js",
+            "YoutubeModale": "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6942407530316750848?compact=1"
+        },
+        {
             "id": 27,
             "nomeLavoro": "Pavimento e primi movimenti",
             "categoria":"Three.js",
