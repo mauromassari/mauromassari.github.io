@@ -1,5 +1,5 @@
 <?php
-  function down() {
+  function down($url, $outputPath) {
     echo "Inizio scaricamento CSV \n";
     $fp = fopen($outputPath, 'w');
 
