@@ -1,0 +1,26 @@
+<?php
+  function down() {
+    echo "Inizio scaricamento CSV \n";
+    $fp = fopen($outputPath, 'w');
+
+    $ch = curl_init($url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_FILE, $fp);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 60); // Timeout dopo 60 secondi
+    curl_setopt($ch, CURLOPT_BUFFERSIZE, 1024 * 512); // Buffer di 512 KB
+
+    $data = curl_exec($ch);
+
+    if (curl_errno($ch)) {
+        fclose($fp);
+        throw new Exception(curl_error($ch));
+    }
+
+    curl_close($ch);
+    fclose($fp);
+
+    echo "Scaricamento CSV completato!\n";
+    return $data;
+  }
+?>
