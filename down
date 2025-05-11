@@ -1,5 +1,5 @@
 <?php
-  function down($url, $outputPath) {
+  function down($url, $outputPath) { throw new Exception("Errore di download!");
     echo "Inizio scaricamento CSV \n";
     $fp = fopen($outputPath, 'w');
 
